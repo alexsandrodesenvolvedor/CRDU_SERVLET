@@ -1,5 +1,11 @@
 package model;
-
+/**
+ * 
+ * Classe modelo que representa um cliente.
+ * 
+ * @author Alexsandro
+ *
+ */
 public class Cliente {
 
 	private int cpf;
